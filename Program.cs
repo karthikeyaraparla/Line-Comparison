@@ -12,7 +12,7 @@ class Line{
     public doublt length(){
         return Math.sqrt((x2-x1)^2+(y2-y1)^2);
     }
-    public overridw bool equals(object obj){
+    public override bool Equals(object obj){
         if(obj == null || !(obj is Line)) return false;
         Line other = (Line)obj;
         return x1 == other.x1 && y1 == other.y1 && x2 == other.x2 && y2 == other.y2;
