@@ -1,0 +1,15 @@
+/Users/karthikeyaraparla/LineComparison/bin/Debug/net10.0/LineComparison
+/Users/karthikeyaraparla/LineComparison/bin/Debug/net10.0/LineComparison.deps.json
+/Users/karthikeyaraparla/LineComparison/bin/Debug/net10.0/LineComparison.runtimeconfig.json
+/Users/karthikeyaraparla/LineComparison/bin/Debug/net10.0/LineComparison.dll
+/Users/karthikeyaraparla/LineComparison/bin/Debug/net10.0/LineComparison.pdb
+/Users/karthikeyaraparla/LineComparison/obj/Debug/net10.0/LineComparison.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karthikeyaraparla/LineComparison/obj/Debug/net10.0/LineComparison.AssemblyInfoInputs.cache
+/Users/karthikeyaraparla/LineComparison/obj/Debug/net10.0/LineComparison.AssemblyInfo.cs
+/Users/karthikeyaraparla/LineComparison/obj/Debug/net10.0/LineComparison.csproj.CoreCompileInputs.cache
+/Users/karthikeyaraparla/LineComparison/obj/Debug/net10.0/LineComparison.sourcelink.json
+/Users/karthikeyaraparla/LineComparison/obj/Debug/net10.0/LineComparison.dll
+/Users/karthikeyaraparla/LineComparison/obj/Debug/net10.0/refint/LineComparison.dll
+/Users/karthikeyaraparla/LineComparison/obj/Debug/net10.0/LineComparison.pdb
+/Users/karthikeyaraparla/LineComparison/obj/Debug/net10.0/LineComparison.genruntimeconfig.cache
+/Users/karthikeyaraparla/LineComparison/obj/Debug/net10.0/ref/LineComparison.dll
